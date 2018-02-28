@@ -1,2 +1,2 @@
 # tt-git-workshop
-Repository for Git workshop at Thumbtack
+Repository for Git workshop at Thumbtack (hurray!)
